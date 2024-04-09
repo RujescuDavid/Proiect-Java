@@ -1,0 +1,35 @@
+Numar matricol: 1
+Nume: David
+Prenume: rujescu
+Email: david@gmail.com
+Specializare: fmi
+An de studiu: 2
+
+------
+
+Numar matricol: 2
+Nume: Ana
+Prenume: Ana
+Email: Ana@gmail.com
+Specializare: FSP
+An de studiu: 3
+
+------
+
+Numar matricol: 3
+Nume: David
+Prenume: marian
+Email: david@gmail.ro
+Specializare: fmi
+An de studiu: 2
+
+------
+
+Numar matricol: 4
+Nume: david
+Prenume: david
+Email: david
+Specializare: david
+An de studiu: 1
+
+------

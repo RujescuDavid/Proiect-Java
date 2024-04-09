@@ -1,0 +1,4 @@
+profesor,profesor@mail.com,profesor
+student,student@mail.com,student
+profesor,profesor1@gmail.com,profesor
+student,student1@gmail.com,student
